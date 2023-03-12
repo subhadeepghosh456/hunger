@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hunger/static/css/main.074f3ea0.css",
+    "main.js": "/hunger/static/js/main.6f4b5888.js",
+    "static/js/787.164459e3.chunk.js": "/hunger/static/js/787.164459e3.chunk.js",
+    "index.html": "/hunger/index.html",
+    "main.074f3ea0.css.map": "/hunger/static/css/main.074f3ea0.css.map",
+    "main.6f4b5888.js.map": "/hunger/static/js/main.6f4b5888.js.map",
+    "787.164459e3.chunk.js.map": "/hunger/static/js/787.164459e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.074f3ea0.css",
+    "static/js/main.6f4b5888.js"
+  ]
+}
